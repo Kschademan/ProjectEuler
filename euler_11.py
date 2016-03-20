@@ -1,6 +1,6 @@
 ######################################################
 #Programer: Scott Sellevaag and K Walter Schademan
-#Date updated: 3/12/2016
+#Date updated: 3/20/2016
 #Program discription: solves the eleventh euler problem.
 #   finds the largest product of four numbers in a row
 #   in a 2-D array.
